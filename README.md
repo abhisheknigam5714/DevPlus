@@ -2,7 +2,7 @@
 
 > A full stack team productivity platform where Managers assign tasks to developers and track their real GitHub commit activity in real-time via webhooks.
 
----
+-----
 
 ## 🧰 Tech Stack
 
